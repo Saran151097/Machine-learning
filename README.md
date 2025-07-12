@@ -2,4 +2,4 @@
 Machine learning studying purpose
 
 
-# Simple linear Regression purpose 1
+# Simple linear Regression
